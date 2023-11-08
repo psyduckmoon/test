@@ -90,7 +90,7 @@ type = "tours"
 </tbody>
 </table>
 
-<img  decoding="async"  src="https://raw.githubusercontent.com/134f/siroco-tours/master/content/pt/uploads/map-10-days.png?token=GHSAT0AAAAAACJ66PUIEGAVIUOSDZHTAW3WZKLHR3Q"  width="580" height="420">
+<img  decoding="async"  src="https://raw.githubusercontent.com/psyduckmoon/test/main/map-10-days.png"  width="580" height="420">
 
 ***
 
@@ -98,7 +98,7 @@ type = "tours"
 
 <p>
 
-<img src="https://raw.githubusercontent.com/134f/siroco-tours/master/content/pt/uploads/_DSF3192.jpg?token=GHSAT0AAAAAACJ66PUJI7NYKIYBYZA44EYYZKLHTPQ" width="50%" align=right alt="Casablanca"/>
+<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/_DSF3192.jpg" width="50%" align=right alt="Casablanca"/>
 
 <font size=2>在您抵达卡萨布兰卡机场后，我们的导游将在机场大门外热情地欢迎您。
 
@@ -116,7 +116,7 @@ type = "tours"
 
 ****Day 2: 拉巴特 – 艾西拉 – 丹吉尔****
 <p>
-<img src="https://raw.githubusercontent.com/134f/siroco-tours/master/content/pt/uploads/tangier.jpg?token=GHSAT0AAAAAACJ66PUJF2E3OU3O4MMQEXLGZKLJPSQ" width="50%" height=195 align="right" alt="tangier" />
+<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/tangier.jpg" width="50%" height=195 align="right" alt="tangier" />
 <font size=2>随着安达卢西亚人从伊比利亚半岛被驱逐出境，拉巴特在十四世纪和十五世纪发展起来。它被三面围墙所环绕： 阿尔摩哈德墙壁、安达卢西亚墙壁和阿拉维派墙壁，而这三面围墙分别代表着三个非常重要的历史时刻，在这里，您可以参观位于清真寺废墟顶部的哈桑塔，穆罕默德五世的华丽坟茔，以及蓝白色的乌达雅堡等等。
 <font size=2>然后我们将离开拉巴特前往丹吉尔，途中途径艾西拉小镇。，一个充满记忆和历史的城市，葡萄牙人在那里留下了非常强烈的印记。
 </p>
