@@ -141,7 +141,7 @@ type = "tours"
 ****Day 3: 丹吉尔 - 舍夫沙万****
 <p>
 
-<img src="https://github.com/psyduckmoon/test/blob/main/heidi-kaden-NncAbldgViA-unsplash.jpeg?raw=true" width="300"  align="right" alt="Street in Chefchaouen" />
+<img src="https://github.com/psyduckmoon/test/blob/main/heidi-kaden-NncAbldgViA-unsplash.jpeg?raw=true" width="320"  align="right" alt="Street in Chefchaouen" />
 
 <font size=2>游览完丹吉尔后，我们前往蓝色小镇舍夫沙万。蓝色的舍夫沙万建筑是这块摩洛哥宝石的名片，其独特的颜色植根于历史和宗教。走过麦地那的入口，您会觉得进入了另一个世界，每个角落都有迷人的风景，是摄影师的梦想之地。每条路都通向乌塔哈曼广场(Uta el-Hammam Plaza)，这是一个充满活力的中心，也是一个文化大熔炉，建筑、食物和当地人民都受到来自世界各地文化的影响。在cafeclock享用一杯橙子或一顿午餐/下午茶，那里有一个可爱的露台，可以欣赏到舍夫沙万迷人的全景。</p>
 
@@ -155,7 +155,7 @@ type = "tours"
 
 <p>
 
-<img src="https://github.com/psyduckmoon/test/blob/main/volubilis3.jpg" width="40%"  align=left alt="volubilis3"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/volubilis3.jpg" width="45%"  align=left alt="volubilis3"/>
 
 
 <font size=2>悠闲的早餐过后，我们会启程前往菲斯，并在途中拜访帝都梅克内斯。苏丹穆勒·伊斯梅尔大帝曾梦想着让梅克内斯成为北非最辉煌的城市，因此它的绰号是“马格里布的凡尔赛”。 在这里，您可以参观壮观的保存完好的曼索尔门Bab Mansour，古代皇家粮仓Hri Souani，以及前身为古兰经学院的Bou Inania Medersa等。
@@ -171,7 +171,7 @@ type = "tours"
 
 ****Day 5: 菲斯****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/fes.jpg" width="300"  align=right alt="fes"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/fes.jpg" width="350"  align=right alt="fes"/>
 
 
 <font size=2>菲斯曾是摩洛哥的首都，受到法蒂玛后裔、安达卢西亚、阿拉伯和犹太的多重文化影响。这座城市在13世纪达到顶峰，成为知识的中心，拥有世界上最早的大学之一。
@@ -192,7 +192,7 @@ type = "tours"
 
 ****Day 6:  菲斯 – 伊芙兰 –  艾兹鲁 – 梅祖卡****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/desertxhnn4vm9omnx1s4-cmwhkkeruciesfmn9sf8w4x-rd8_.jpg" width="50%"  align=left alt="desert"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/desertxhnn4vm9omnx1s4-cmwhkkeruciesfmn9sf8w4x-rd8_.jpg" width="43%"  align=left alt="desert"/>
 
 <font size=2>我们将在早晨启程前往艾兹鲁的神奇雪松森林和伊芙兰令人眼花缭乱的壮丽自然之境。这里的气氛平静祥和、清澈明晰，富含着大自然的气息。
 
@@ -205,7 +205,7 @@ type = "tours"
 
 ****Day 7: 梅祖卡 – 里萨尼 –卡姆利亚 - 梅祖卡 (撒哈拉沙漠)****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/people-in-desert.jpg" width="50%"  align=right alt="saharadesert"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/people-in-desert.jpg" width="350"  align=right alt="saharadesert"/>
 
 
 <font size=2>这天我们计划行进到沙漠的深处，您将有机会见一见游牧人民。
@@ -223,7 +223,7 @@ type = "tours"
 
 ****Day 8: 梅祖卡 – 托德拉峡谷 – 达德斯河谷/瓦尔扎扎特****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/Todra_Gorge1.jpg" width="50%"  align=left alt="todragorges"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/Todra_Gorge1.jpg" width="42%"  align=left alt="todragorges"/>
 
 <font size=2>在一个难忘的夜晚后早早醒来，感受清晨的冷光侵入沙漠，您可以爬到沙丘的顶端，在沙漠苏醒的时候捕捉日出的瞬间。早餐后，我们将出发前往一个景观完全不同的地方：峡谷的岩石奇观、高阿特拉斯山以及达德斯河谷的绿色美景。
 
@@ -236,7 +236,7 @@ type = "tours"
 
 ****Day 9: 瓦尔扎扎特 – 阿伊特本哈杜 – 马拉喀什****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/Ait2.jpg" width="50%"  align=right alt="aitbenhaddou"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/Ait2.jpg" width="42%"  align=right alt="aitbenhaddou"/>
 
 <font size=2>我们将继续游览瓦尔扎扎特和阿伊特本哈杜。在阿特拉斯山脉，这两个地方拥有伟大的历史和文化意义，身处其中会让您感觉像在穿越时空般，见证那些风貌的变迁，见证那些曾献身于贸易事业的人的一生。
 
@@ -250,7 +250,7 @@ type = "tours"
 
 ****Day 10: 马拉喀什****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/Marrakech-tour1.jpg" width="50%"  align=left alt="marrakech"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/Marrakech-tour1.jpg" width="350"  align=left alt="marrakech"/>
 
 <font size=2>马拉喀什是摩洛哥的红色之城和国际大都会。这里令人惊奇的建筑、浓浓的香料气味、丰富多彩的异国氛围以及历史悠久的小角落和小秘密，无不使得这座城市成为摩洛哥最受欢迎的城市。
 
@@ -266,7 +266,7 @@ type = "tours"
 
 ****Day 11: 马拉喀什 ****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/crowd-vendor-carnival-festival-fair.jpg" width="300"  align=right alt="marrakech"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/crowd-vendor-carnival-festival-fair.jpg" width="320"  align=right alt="marrakech"/>
 
 <font size=2>早上，您可进行验乘坐热气球爬上天空的独特体验(需要提前预订)，并飞越马拉喀什及其棕榈林，您将有幸欣赏这座古城以及阿特拉斯山脉。
 
@@ -286,7 +286,7 @@ type = "tours"
 
 ****Day 12: 马拉喀什 - 索维拉****
 
-<img src="https://github.com/psyduckmoon/test/blob/main/Essaouira7-1.jpg" width="300"  align=left alt="essaouira"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/Essaouira7-1.jpg" width="400" height="230" align=left alt="essaouira"/>
 
 <font size=2>在马拉喀什尽兴之后，我们将前往索维拉的小清新艺术海岸, 它的字面意思是“精美地绘制”。它是摩洛哥海岸最可爱的城市之一，也是多元文化艺术中心，吸引了像吉米·亨德里克斯、奥森·威尔斯和鲍勃·马利等这样的人物。这座城市也是著名的Gnawa音乐节的舞台，Gnawa音乐一种是北非伊斯兰教古老的精神艺术形式。
 
