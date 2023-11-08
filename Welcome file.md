@@ -17,7 +17,7 @@ translationKey = "tour:Photo10"
 type = "tours"
 
 +++
-
+<div align=center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;text-align:center;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;text-align:center;
@@ -26,6 +26,7 @@ type = "tours"
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ai0l{border-color:inherit;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-f4iu{border-color:inherit;font-size:12px;text-align:center;vertical-align:top}
+
 </style>
 <table class="tg">
 <thead>
@@ -85,12 +86,13 @@ type = "tours"
   </tr>
   <tr>
     <td class="tg-f4iu"><small>Day 13</td>
-    <td align="center"><small>索维拉 - 马拉喀什(2h:30)</td>
+    <td align="center"><small>索维拉 - 马拉喀什(2h:30)</small></td>
   </tr>
 </tbody>
 </table>
-
+   
 <img  decoding="async"  src="https://raw.githubusercontent.com/psyduckmoon/test/main/map-10-days.png"  width="580" height="420">
+</div>
 
 ***
 
@@ -98,9 +100,9 @@ type = "tours"
 
 <p>
 
-<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/_DSF3192.jpg" width="50%" align=right alt="Casablanca"/>
+<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/_DSF3192.jpg" width="300" align=right alt="Casablanca"/>
 
-<font size=2>在您抵达卡萨布兰卡机场后，我们的导游将在机场大门外热情地欢迎您。
+<font size=2>在您抵达卡萨布兰卡机场后，我们的导游将在机场大门外热情地欢迎您。</font> 
 
 <font size=2>随后，我们的旅程将从摩洛哥主要奇观之一的哈桑二世清真寺开启，它是世界上第二高清真寺，也是少数允许非穆斯林进入的清真寺。在清真寺内，您的导游会教您穆斯林的宗教传统和仪式。清真寺内部华美，精致的马赛克、光洁的大理石地面和由76个支柱支撑的一个巨大的可打开的彩绘雕刻的雪松天花板，可以将天空的色彩倒映在露台的清水中。用《摩洛哥国家研究指南》作者的话来说，哈桑二世清真寺“毋庸置疑标志着现代化的祖先艺术的延续，也是创新的标志，这不仅是由于技术原因，也是对新美学可能性的丰富探索”。
 
@@ -116,7 +118,7 @@ type = "tours"
 
 ****Day 2: 拉巴特 – 艾西拉 – 丹吉尔****
 <p>
-<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/tangier.jpg" width="50%" height=195 align="right" alt="tangier" />
+<img src="https://raw.githubusercontent.com/psyduckmoon/test/main/tangier.jpg" width="50%" height=195 align="left" alt="tangier" />
 <font size=2>随着安达卢西亚人从伊比利亚半岛被驱逐出境，拉巴特在十四世纪和十五世纪发展起来。它被三面围墙所环绕： 阿尔摩哈德墙壁、安达卢西亚墙壁和阿拉维派墙壁，而这三面围墙分别代表着三个非常重要的历史时刻，在这里，您可以参观位于清真寺废墟顶部的哈桑塔，穆罕默德五世的华丽坟茔，以及蓝白色的乌达雅堡等等。
 <font size=2>然后我们将离开拉巴特前往丹吉尔，途中途径艾西拉小镇。，一个充满记忆和历史的城市，葡萄牙人在那里留下了非常强烈的印记。
 </p>
@@ -139,7 +141,7 @@ type = "tours"
 ****Day 3: 丹吉尔 - 舍夫沙万****
 <p>
 
-<img src="https://raw.githubusercontent.com/134f/siroco-tours/master/content/pt/uploads/_DSF3455.jpg?token=GHSAT0AAAAAACJ66PUJGUVWUZS7JPELVTJSZKLJWOQ" width="50%"  align="right" alt="Street in Chefchaouen" />
+<img src="https://github.com/psyduckmoon/test/blob/main/heidi-kaden-NncAbldgViA-unsplash.jpeg?raw=true" width="300"  align="right" alt="Street in Chefchaouen" />
 
 <font size=2>游览完丹吉尔后，我们前往蓝色小镇舍夫沙万。蓝色的舍夫沙万建筑是这块摩洛哥宝石的名片，其独特的颜色植根于历史和宗教。走过麦地那的入口，您会觉得进入了另一个世界，每个角落都有迷人的风景，是摄影师的梦想之地。每条路都通向乌塔哈曼广场(Uta el-Hammam Plaza)，这是一个充满活力的中心，也是一个文化大熔炉，建筑、食物和当地人民都受到来自世界各地文化的影响。在cafeclock享用一杯橙子或一顿午餐/下午茶，那里有一个可爱的露台，可以欣赏到舍夫沙万迷人的全景。</p>
 
@@ -153,7 +155,7 @@ type = "tours"
 
 <p>
 
-<img src="https://raw.githubusercontent.com/134f/siroco-tours/master/content/pt/uploads/volubilis3.jpg?token=GHSAT0AAAAAACJ66PUIJMBI64MPEU6CXTIYZKLJZ3A" width="50%" height=200 align=right alt="volubilis3"/>
+<img src="https://github.com/psyduckmoon/test/blob/main/volubilis3.jpg" width="40%"  align=left alt="volubilis3"/>
 
 
 <font size=2>悠闲的早餐过后，我们会启程前往菲斯，并在途中拜访帝都梅克内斯。苏丹穆勒·伊斯梅尔大帝曾梦想着让梅克内斯成为北非最辉煌的城市，因此它的绰号是“马格里布的凡尔赛”。 在这里，您可以参观壮观的保存完好的曼索尔门Bab Mansour，古代皇家粮仓Hri Souani，以及前身为古兰经学院的Bou Inania Medersa等。
@@ -169,7 +171,8 @@ type = "tours"
 
 ****Day 5: 菲斯****
 
-![Fes View](/uploads/_DSF3712.jpg  "Fes View")
+<img src="https://github.com/psyduckmoon/test/blob/main/fes.jpg" width="300"  align=right alt="fes"/>
+
 
 <font size=2>菲斯曾是摩洛哥的首都，受到法蒂玛后裔、安达卢西亚、阿拉伯和犹太的多重文化影响。这座城市在13世纪达到顶峰，成为知识的中心，拥有世界上最早的大学之一。
 
@@ -189,7 +192,8 @@ type = "tours"
 
 ****Day 6:  菲斯 – 伊芙兰 –  艾兹鲁 – 梅祖卡****
 
-![Ziz Valley panoramic](/uploads/DSC_0018.JPG  "Ziz Valley panoramic")
+<img src="https://github.com/psyduckmoon/test/blob/main/desertxhnn4vm9omnx1s4-cmwhkkeruciesfmn9sf8w4x-rd8_.jpg" width="50%"  align=left alt="desert"/>
+
 <font size=2>我们将在早晨启程前往艾兹鲁的神奇雪松森林和伊芙兰令人眼花缭乱的壮丽自然之境。这里的气氛平静祥和、清澈明晰，富含着大自然的气息。
 
 <font size=2>在旅程中，我们将在米德勒特做短暂的停留，它是位于高阿特拉斯和中阿特拉斯之间的一个小镇，这里是观赏壮丽山景的绝佳地点。在旅程中，我们还可能看到猴子和森林中其他的动物。
@@ -201,7 +205,7 @@ type = "tours"
 
 ****Day 7: 梅祖卡 – 里萨尼 –卡姆利亚 - 梅祖卡 (撒哈拉沙漠)****
 
-![Merzouga friends in Dune](/uploads/fabien-bazanegue-1Lw1ZSRPm7o-unsplash.jpg  "Merzouga friends in Dune")
+<img src="https://github.com/psyduckmoon/test/blob/main/people-in-desert.jpg" width="50%"  align=right alt="saharadesert"/>
 
 
 <font size=2>这天我们计划行进到沙漠的深处，您将有机会见一见游牧人民。
@@ -219,7 +223,7 @@ type = "tours"
 
 ****Day 8: 梅祖卡 – 托德拉峡谷 – 达德斯河谷/瓦尔扎扎特****
 
-![Dades Valley](/uploads/06turwjvoksz.jpg  "Dades Valley")
+<img src="https://github.com/psyduckmoon/test/blob/main/Todra_Gorge1.jpg" width="50%"  align=left alt="todragorges"/>
 
 <font size=2>在一个难忘的夜晚后早早醒来，感受清晨的冷光侵入沙漠，您可以爬到沙丘的顶端，在沙漠苏醒的时候捕捉日出的瞬间。早餐后，我们将出发前往一个景观完全不同的地方：峡谷的岩石奇观、高阿特拉斯山以及达德斯河谷的绿色美景。
 
@@ -232,7 +236,7 @@ type = "tours"
 
 ****Day 9: 瓦尔扎扎特 – 阿伊特本哈杜 – 马拉喀什****
 
-![Marrakech blue](/uploads/1582459678901.jpg  "Marrakech blue")
+<img src="https://github.com/psyduckmoon/test/blob/main/Ait2.jpg" width="50%"  align=right alt="aitbenhaddou"/>
 
 <font size=2>我们将继续游览瓦尔扎扎特和阿伊特本哈杜。在阿特拉斯山脉，这两个地方拥有伟大的历史和文化意义，身处其中会让您感觉像在穿越时空般，见证那些风貌的变迁，见证那些曾献身于贸易事业的人的一生。
 
@@ -246,7 +250,7 @@ type = "tours"
 
 ****Day 10: 马拉喀什****
 
-![Marrakech Souk](/uploads/Fes_Souk.jpg  "Marrakech Souk")
+<img src="https://github.com/psyduckmoon/test/blob/main/Marrakech-tour1.jpg" width="50%"  align=left alt="marrakech"/>
 
 <font size=2>马拉喀什是摩洛哥的红色之城和国际大都会。这里令人惊奇的建筑、浓浓的香料气味、丰富多彩的异国氛围以及历史悠久的小角落和小秘密，无不使得这座城市成为摩洛哥最受欢迎的城市。
 
@@ -262,7 +266,7 @@ type = "tours"
 
 ****Day 11: 马拉喀什 ****
 
-![Marrakech Bahia](/uploads/Marrakech-tour2.jpg  "Marrakech Bahia")
+<img src="https://github.com/psyduckmoon/test/blob/main/crowd-vendor-carnival-festival-fair.jpg" width="300"  align=right alt="marrakech"/>
 
 <font size=2>早上，您可进行验乘坐热气球爬上天空的独特体验(需要提前预订)，并飞越马拉喀什及其棕榈林，您将有幸欣赏这座古城以及阿特拉斯山脉。
 
@@ -281,7 +285,8 @@ type = "tours"
 <font size=2>漫步在迷宫般的集市里，音乐家、耍蛇者、驴子，以及那些试图用他们的小玩意或小饰品接近您的小贩，总会让您充满惊喜，让您着迷。大步走进这个充满色彩、气味和声音的世界，您将会得到丰硕的回报，无论是在您的相机里，您的包里，还是在您的记忆里。
 
 ****Day 12: 马拉喀什 - 索维拉****
-![Marrakech extra days](/uploads/Picture_10.jpg  "Marrakech extra days")
+
+<img src="https://github.com/psyduckmoon/test/blob/main/Essaouira7-1.jpg" width="300"  align=left alt="essaouira"/>
 
 <font size=2>在马拉喀什尽兴之后，我们将前往索维拉的小清新艺术海岸, 它的字面意思是“精美地绘制”。它是摩洛哥海岸最可爱的城市之一，也是多元文化艺术中心，吸引了像吉米·亨德里克斯、奥森·威尔斯和鲍勃·马利等这样的人物。这座城市也是著名的Gnawa音乐节的舞台，Gnawa音乐一种是北非伊斯兰教古老的精神艺术形式。
 
@@ -294,7 +299,8 @@ type = "tours"
 <font size=2>随着时间的流逝，灯光像流动的星星一样照亮了新月湾。越来越多的人和鸟停留在港口，等待壮观的日落。没有喧哗，没有急躁，所有的人都静静地看着夕阳的金光如何一点一点地消失在地平线下，仿佛怀着对大自然变化的敬畏。
 
 ****Day 12: 马拉喀什 - 索维拉****
-<font size=2>早上，我们送您前往机场，相信我们已成为朋友，让我们带着独特的回忆告别彼此以及这次难忘旅程！
+<font size=2>
+早上，我们送您前往机场，相信我们已成为朋友，让我们带着独特的回忆告别彼此以及这次难忘旅程！
 
 ***
 
